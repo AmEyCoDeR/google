@@ -1,0 +1,47 @@
+body{
+    padding-top: 20vh;
+    font-family: arial,sans-serif;
+}
+
+#search{
+    width: 582px;
+    height: 47px;
+    border-radius: 47px;
+    border: 1px solid grey;
+    outline: none;
+    font-size: 16px;
+    background: url("./search.png") no-repeat center left;
+    font-family: arial,sans-serif;
+}
+
+.searchoo{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: grey;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.searchoo:hover{
+    background-color: #f8f9fa;
+    border: 1px solid grey;
+    border-radius: 4px;
+    color: grey;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
